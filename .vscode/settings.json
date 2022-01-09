@@ -1,0 +1,5 @@
+{
+    "code-runner.clearPreviousOutput": true,
+    "python.terminal.executeInFileDir": true,
+    "code-runner.runInTerminal": true
+}
